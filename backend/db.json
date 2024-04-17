@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Buscai as coisas do alto",
+      "autoria": "São Paulo apóstolo",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "A fé sem obras é morta, mostra a tua fé sem obras que através das minhas obras mostrarei a minha fé",
+      "autoria": "São Tiago Apóstolo",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Eis que estarei convosco até os confins dos tempos",
+      "autoria": "Jesus Cristo",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Viver sempre contente, orar sem cessar e em tudo daí graças.",
+      "autoria": "São Paulo Apóstolo",
+      "modelo": "modelo1",
+      "id": 4
+    }
+  ]
+}
